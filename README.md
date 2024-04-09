@@ -31,7 +31,7 @@ This project is a front-end application developed using vanilla HTML, CSS, and J
 ## How to Use
 - Clone or download the repository to your local machine.
 - Install: npm install -g http-server
-- Navigate to the project directory: pathTo\Frontend-Simple-Task-Vanilla\app
+- Navigate to the project directory: pathTo\app
 - Start the Server: http-server
 - You Can Now Navigate through the application using the provided menus.
 
