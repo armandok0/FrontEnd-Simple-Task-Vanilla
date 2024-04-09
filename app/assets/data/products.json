@@ -1,0 +1,42 @@
+[
+    {
+        "code": "4040e418-4095",
+        "name": "Washing Machine - 7kg - 1400rpm - White"
+    },
+    {
+        "code": "40ffe411-42496",
+        "name": "TV - 32\" - HD Ready - Black"
+    },
+    {
+        "code": "c5379a05-2d6d-4fcf-a2c1-80dd0d10e55c",
+        "name": "Refrigerator - 300L - Frost Free - Stainless Steel"
+    },
+    {
+        "code": "8c746913-7f58-46f6-aae1-bf8c0b045433",
+        "name": "Microwave Oven - 900W - Black"
+    },
+    {
+        "code": "05c33c84-2ed2-435d-aa8c-34f919ba7d9c",
+        "name": "Vacuum Cleaner - Bagless - 800W - Red"
+    },
+    {
+        "code": "5e6c5b6d-6d5e-5c4b-4b6e-6d5e5c4b4b6e",
+        "name": "Smartphone - 6.5\" - 128GB - Silver"
+    },
+    {
+        "code": "b1234567-7a8b-9c10-d1e2-f3g4h5i6j7k8",
+        "name": "Laptop - 14\" - 512GB SSD - Gray"
+    },
+    {
+        "code": "3a3a3a3a-3a3a-3a3a-3a3a-3a3a3a3a3a3a",
+        "name": "Bluetooth Speaker - Waterproof - 10W - Blue"
+    },
+    {
+        "code": "00000000-0000-0000-0000-000000000001",
+        "name": "Gaming Console - 4K - 1TB HDD - Black"
+    },
+    {
+        "code": "a1b2c3d4-e5f6-g7h8-i9j0-k1l2m3n4o5p6",
+        "name": "Smart Watch - Fitness Tracker - GPS - Black"
+    }
+]
